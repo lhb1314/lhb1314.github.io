@@ -1,7 +1,8 @@
 ---
 title: React基础
 date: 2023-04-03 19:53:39
-tags: react 基础知识
+tags: 
+comments: true
 ---
 # React 基础
 ## 1.React概述
@@ -14,7 +15,7 @@ tags: react 基础知识
 
  React 是一个开源的 javaScript 库 用于构建 web 应用中的视图层 就是web 应用中的前端用户界面 
 
-![](image/React/1.png)
+{% asset_img 1.png This is an example image %}
 
  React 是目前最为流行的[前端框架](https://so.csdn.net/so/search?q=前端框架&spm=1001.2101.3001.7020)之一。 
 
@@ -22,7 +23,7 @@ tags: react 基础知识
 
 **[npm 前端三大框架下载量对比](https://npmtrends.com/angular-vs-react-vs-vue)**
 
-![1680523369597](../../image/React/1.png)
+{% asset_img 2.png This is an example image %}
 
 
 
@@ -30,7 +31,7 @@ tags: react 基础知识
 
 
 
-![1680523387076](C:\Users\lou\AppData\Roaming\Typora\typora-user-images\1680523387076.png)
+{% asset_img 3.png This is an example image %}
 
 React 是 Facebook 的软件工程师在 2012 年创建 于 2013年5月开源 目前由 facebook 以及个人开发人员和公司组成的社区维护。
 
@@ -41,7 +42,7 @@ React 起源于 facebook 的内部项目 因为当时该公司的市场上所有
 
 [Stack Overflow](https://stackoverflow.com/questions/tagged/reactjs)
 
-![1680523412135](C:\Users\lou\AppData\Roaming\Typora\typora-user-images\1680523412135.png)
+{% asset_img 4.png This is an example image %}
 
 ##  2.创建React项目
 
@@ -65,13 +66,12 @@ npm init react-app react-basic
 
 
 
-![1680523537100](C:\Users\lou\AppData\Roaming\Typora\typora-user-images\1680523537100.png)
+{% asset_img 5.png This is an example image %}
 
 
+{% asset_img 6.png This is an example image %}
 
-![1680523545678](C:\Users\lou\AppData\Roaming\Typora\typora-user-images\1680523545678.png)
-
-![1680523554638](C:\Users\lou\AppData\Roaming\Typora\typora-user-images\1680523554638.png)
+{% asset_img 7.png This is an example image %}
 
 ```tet
 # 项目结构分析
