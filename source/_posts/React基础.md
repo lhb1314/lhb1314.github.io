@@ -3,6 +3,8 @@ title: React基础
 date: 2023-04-03 19:53:39
 tags: 
 comments: true
+top_img: https://www.linuxprobe.com/wp-content/uploads/2016/10/0-react01-1.jpg
+cover: https://www.linuxprobe.com/wp-content/uploads/2016/10/0-react01-1.jpg
 ---
 # React 基础
 ## 1.React概述
